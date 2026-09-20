@@ -282,10 +282,9 @@ The workflow highlights the ability to work with raw data, improve data quality,
 
 Author
 
-[Your Name]
+Madhu Mishra
 
-GitHub: [Your GitHub Profile]
+GitHub: madhu-mishra-analyst
 
-LinkedIn: [Your LinkedIn Profile]
+Email: madhumishraaa@gmail.com
 
-Email: [Your Email]
